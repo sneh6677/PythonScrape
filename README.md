@@ -32,4 +32,8 @@ It showcases how to extract structured information from HTML pages, clean the da
    ```bash
    git clone https://github.com/sneh6677/PythonScrape.git
    cd PythonScrape
+python -m venv venv
+source venv/bin/activate   # macOS/Linux
+venv\Scripts\activate      # Windows
+
 
